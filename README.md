@@ -1,18 +1,18 @@
-## rateMyLinkedIn
+# rateMyLinkedIn
 
-About: This project is the start of a tool that will rate a LinkedIn user's profile by utlizing openai's gpt-3 engine: text-davinci-003, along with prompt engineering for users to get vital feedback on their profile.
+## About: This project is the start of a tool that will rate a LinkedIn user's profile by utlizing openai's gpt-3 engine: text-davinci-003, along with prompt engineering for users to get vital feedback on their profile.
 
-Why: Linkedin is the number one tool for finding and getting hired for jobs. Every hiring manager or recruiter has a linkedIn, and they will be checking out profiles for potential talent. So essentially it is the first representation of oneself that a recruiter or a potential hiring manager will see. If LinkedIn is used right, the amount of interviews, or the number of opportunities can increase. With the help of rateMyLinkedIn (this project) users can receive feedback on certain parts of their profile and be able to optimize it.
+## Why: Linkedin is the number one tool for finding and getting hired for jobs. Every hiring manager or recruiter has a linkedIn, and they will be checking out profiles for potential talent. So essentially it is the first representation of oneself that a recruiter or a potential hiring manager will see. If LinkedIn is used right, the amount of interviews, or the number of opportunities can increase. With the help of rateMyLinkedIn (this project) users can receive feedback on certain parts of their profile and be able to optimize it.
 
-To Implement: 
+## To Implement: 
 -Build a nice ui/frontend for users to interact with 
 -More Prompt Engineering
 -More data to work with, so far this script looks at just the summary of a profile.
 
-Api's Used:
-[query LinkedIn data (not official doc)](https://linkedin-api.readthedocs.io/en/latest/api.html)
-[click for original github for the linkedin api](https://github.com/tomquirk/linkedin-api)
-[openai api doc](https://platform.openai.com/docs/api-reference?lang=python)
+## Api's Used:
+[query LinkedIn data (not official doc)](https://linkedin-api.readthedocs.io/en/latest/api.html),
+[click for original github for the linkedin api](https://github.com/tomquirk/linkedin-api),
+[openai api doc](https://platform.openai.com/docs/api-reference?lang=python),
 [openai github](https://github.com/openai/openai-python)
 
 ## Example of a prompt: 
@@ -26,5 +26,5 @@ Rate the following prompt on a scale of 1 to 5, where 1 represents unsatisfactor
 
 I'm a second-year attending Temple University majoring in Computer Science.
 
-Output from gpt-3:
+## Output from gpt-3:
 2: This prompt is missing essential information to be considered a good LinkedIn profile summary. It is missing a greeting, a professional interest or current focus, personal interests (optional), and contact information. A good summary should include details that make the reader want to learn more about the individual, such as their professional accomplishments, relevant experience, and current goals. This is important for creating an engaging profile that will help the individual stand out from the competition.
