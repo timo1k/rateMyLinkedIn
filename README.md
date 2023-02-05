@@ -1,8 +1,10 @@
 # rateMyLinkedIn
 
-## About: This project is the start of a tool that will rate a LinkedIn user's profile by utlizing openai's gpt-3 engine: text-davinci-003, along with prompt engineering for users to get vital feedback on their profile.
+## About: 
+This project is the start of a tool that will rate a LinkedIn user's profile by utlizing openai's gpt-3 engine: text-davinci-003, along with prompt engineering for users to get vital feedback on their profile.
 
-## Why: Linkedin is the number one tool for finding and getting hired for jobs. Every hiring manager or recruiter has a linkedIn, and they will be checking out profiles for potential talent. So essentially it is the first representation of oneself that a recruiter or a potential hiring manager will see. If LinkedIn is used right, the amount of interviews, or the number of opportunities can increase. With the help of rateMyLinkedIn (this project) users can receive feedback on certain parts of their profile and be able to optimize it.
+## Why: 
+Linkedin is the number one tool for finding and getting hired for jobs. Every hiring manager or recruiter has a linkedIn, and they will be checking out profiles for potential talent. So essentially it is the first representation of oneself that a recruiter or a potential hiring manager will see. If LinkedIn is used right, the amount of interviews, or the number of opportunities can increase. With the help of rateMyLinkedIn (this project) users can receive feedback on certain parts of their profile and be able to optimize it.
 
 ## To Implement: 
 -Build a nice ui/frontend for users to interact with 
