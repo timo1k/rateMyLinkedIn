@@ -8,7 +8,9 @@ Linkedin is the number one tool for finding and getting hired for jobs. Every hi
 
 ## To Implement: 
 -Build a nice ui/frontend for users to interact with 
+
 -More Prompt Engineering
+
 -More data to work with, so far this script looks at just the summary of a profile.
 
 ## Api's Used:
